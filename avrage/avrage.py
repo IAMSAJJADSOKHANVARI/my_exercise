@@ -3,3 +3,4 @@ second=int (input("Enter second number: "))
 third=int(input("Enter third number: "))
 avrage =(first+second+third)/3
 
+print(avrage)
